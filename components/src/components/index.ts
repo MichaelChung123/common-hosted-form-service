@@ -1,4 +1,5 @@
 import orgbook from './OrgBook/Component';
+import map from './Map/Component';
 
 import simplebtnreset from './SimpleButtonReset/Component';
 import simplebtnsubmit from './SimpleButtonSubmit/Component';
@@ -27,6 +28,7 @@ import simpletime from './SimpleTime/Component';
 
 export default {
   orgbook,
+  map,
   simplebtnreset,
   simplebtnsubmit,
   simplecheckbox,

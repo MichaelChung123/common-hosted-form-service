@@ -265,6 +265,7 @@ export default {
               button: true,
               // Prevent duplicate appearance of orgbook component
               orgbook: false,
+              map: false,
             }
           },
           data: {
@@ -275,6 +276,7 @@ export default {
             title: 'BC Government',
             weight: 60,
             components: {
+              map: true,
               orgbook: true,
               simplefile: this.userType !== this.ID_MODE.PUBLIC
             },
