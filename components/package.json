@@ -50,7 +50,8 @@
     "formiojs": "^4.11.3"
   },
   "dependencies": {
-    "formiojs": "^4.13.1"
+    "formiojs": "^4.13.1",
+    "leaflet": "^1.7.1"
   },
   "devDependencies": {
     "@types/chai": "^4.2.17",
